@@ -45,6 +45,14 @@ dist-ssr/
 # Design & simulation scratch (frozen reference)
 GRAPHOPS_SIMULATION.html
 
+# Internal hackathon build logs, research registers & working documents
+build-log/
+research/
+00_RESEARCH/
+submission/
+CRYPTIQ04_ANTIGRAVITY_BUILD_DOCUMENT.md
+*.log
+
 # IDE & OS
 .vscode/
 .idea/
